@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.css": "css",
+        "css": "css",
+        "map": "cpp",
+        "cstdlib": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp"
+    }
+}
